@@ -1,6 +1,6 @@
 # GMIT Distributed Systems
 ## Lab: Building a REST API in Java with the Dropwizard Microservice Framework
-
+ # test update
 ## Overview
 In this lab we'll build an implementation of the Artist API we designed in the [OpenAPI lab](https://github.com/john-french/distributed-systems-labs/tree/master/openAPI). The full OpenAPI defintion for the Artist API is [here](https://app.swaggerhub.com/apis/john-french/ArtistAPI/1.0.0). This definition will be our guide for what we need to implement.
 
